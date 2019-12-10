@@ -22,6 +22,6 @@ systemLog:
 security:
   authorization: enabled
 ```
-- mongod --config c:\tools\mongodb\db\mongod.cfg
+- mongod --config D:\APP\mongo\mongod.cfg
 - mongo mongodb://superadmin:thepianohasbeendrinking@<host>:<port>
 - jika menggunakan linux => https://medium.com/mongoaudit/how-to-enable-authentication-on-mongodb-b9e8a924efac
