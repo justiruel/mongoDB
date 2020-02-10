@@ -7,8 +7,8 @@
 ```
 > db.createUser(
   {
-    user: "useradmin",
-    pwd: "Password1!",
+    user: "admin",
+    pwd: "Visionet123!",
     roles: [ { role: "readWrite", db: "metaforce" } ]
   }
 )
