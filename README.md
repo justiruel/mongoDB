@@ -1,7 +1,10 @@
 # Instalasi
 - https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-18-04
 # Setting Authentication
-- mongo mongodb://<host>:<port>
+- 
+```
+mongo mongodb://<host>:<port>
+```
 - use admin
 - 
 ```
