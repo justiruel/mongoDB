@@ -6,8 +6,8 @@
 ```  
 bind_ip = 127.0.0.1
 ```
-sudo service mongodb restart
-
+- sudo service mongodb restart
+- mongo mongodb://103.106.81.48:4321
 # Setting Authentication
 - 
 ```
